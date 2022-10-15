@@ -2,6 +2,8 @@ Vadim Victor Kim
 CSE 15L  
 09/30/2022
 
+# Lab Report 1
+
 ## **1. Installing VScode**
 
 First navigate to vscode website and follow their instructions for installation of Visual Studio Code.
