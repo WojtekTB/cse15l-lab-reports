@@ -36,7 +36,7 @@ grep -i 'mckim' ./government/Env_Prot_Agen/1-3_meth_901.txt
 McKim (1977) evaluated the data from 56 full life cycle
 ```
 
- ## "`grep -v`" -> Inverted search
+## "`grep -v`" -> Inverted search
 Sometimes you are not looking for any specific instance of a word, but instead places where something is not present.
 
 For example lets say we are working on the biomed file and we want to just find parts that do not include what causes 'disease':
@@ -98,7 +98,7 @@ or if we are trying to not see lines mentioning stabbings in this 911 report col
                 the Americans to liberate the holy places "is considered a crime,"he said,"let
                 history be a witness that I am a criminal."
 ```
- ## "`grep -R`" -> Look through all files in directory
+## "`grep -R`" -> Look through all files in directory
 
  Sometimes you want to just find mentions of something in multiple files in a directory. For times like these `-R` tag is perfect as it allows you to just run one command for multiple files.
 
